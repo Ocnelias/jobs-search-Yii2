@@ -1,4 +1,4 @@
-jobs-search application based on Yii 2 Advanced Project Template
+<b> jobs-search application based on Yii 2 Advanced Project Template </b> 
 
 Web application for the recruitment agency agency with the following realized opportunities:
 
